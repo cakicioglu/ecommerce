@@ -1,6 +1,6 @@
-import { Search, ShoppingCartOutlined } from "@mui/icons-material"
+import { Badge } from "@material-ui/core";
+import { Search, ShoppingCartOutlined } from "@material-ui/icons";
 import styled from "styled-components"
-import Badge from "@material-ui/core/Badge"
 
 const Container = styled.div`
     height: 60px;
